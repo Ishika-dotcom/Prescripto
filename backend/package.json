@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "type": "module",
+  "proxy": "https://prescripto-backend-4m2u.onrender.com",
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js"
