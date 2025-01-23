@@ -1,4 +1,5 @@
-**Prescripto** - A Full Stack Doctor Appointment Booking System
+##Prescripto - A Full Stack Doctor Appointment Booking System
+
 
 This project is a **MERN Stack** (MongoDB, ExpressJS, ReactJS, NodeJS) application designed to build a complete Doctor Appointment Booking System. The system provides a seamless experience for patients, doctors, and administrators through three levels of authentication.
 
