@@ -25,7 +25,7 @@ This project is a **MERN Stack** (MongoDB, ExpressJS, ReactJS, NodeJS) applicati
 
 ## Live Demo
 - **Main Website (Patient Login/Signup Page/Create Account)**: [Patient Portal](https://prescripto-frontend-gfq6.onrender.com)
-- **Admin Dashboard**: [Admin Portal](https://prescripto-admin-5tcw.onrender.com)
+- **Admin/Doctor Dashboard**: [Admin Portal](https://prescripto-admin-5tcw.onrender.com)
 
 ## Tech Stack
 - **Frontend**: React JS, React Router DOM, React Toastify
